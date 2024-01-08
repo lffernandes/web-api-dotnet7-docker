@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lGMqBGAmAh7o01oYhphIapczHhjAi1GzYKSzvvzR17I=",
+  "Source": "WebAPI-docker",
+  "BasePath": "_content/WebAPI-docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
